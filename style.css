@@ -41,7 +41,7 @@ body{
     display: flex;/*só posso usar esses comandos que está dentro desses colchetes quando o display é flex*/
     align-items: center;
     justify-content: space-around;
-    padding: 100px;
+    padding: 10px;
     height: 100vh;
 }
 
