@@ -9,7 +9,7 @@ inspirada no universo Mario Bros, o site oferece duas formas rápidas de contato
 
 <h2 align="center">🚀 Demonstração</h2> 
 <br>
-<!--<img src="https://github.com/hosanareis/Mario-Bros/blob/main/V%C3%ADdeo%20site.gif?raw=true"/>-->
+<img src="https://github.com/hosanareis/Mario-Bros/blob/main/V%C3%ADdeo%20site.gif?raw=true"/>
 <br>
 <h2> 📌 Funcionalidades: </h2><br>
 
